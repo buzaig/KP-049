@@ -1,0 +1,66 @@
+P-CAD Online DRC Error Log                                   œ-49.002 - »”Õ≈.426449.002 PCB ver.1-b1-debug.pcb
+
+======================================================================
+
+OnlineDRC.ERR.txt:
+
+NETLIST VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+CLEARANCE VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+WIDTH VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+22-Jun-21  16:15                                            Page    1
+
